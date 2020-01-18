@@ -1,0 +1,15 @@
+.con{
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.jumbotron{
+    background-color: forestgreen;
+    color: #ffffff;
+    text-align: center;
+}
+
+.cd{
+    border: 2px solid red;
+    width: 20rem;
+}
