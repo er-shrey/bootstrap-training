@@ -1,0 +1,14 @@
+body{
+    background: url(../images/tint.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero{
+    color: #ffffff;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
+}
