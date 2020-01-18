@@ -3,3 +3,14 @@
     background-color: #ffffff;
     height: 100vh;
 }
+
+.con2{
+    background-color: #a1a1a1;
+    height: 100vh;
+}
+
+.jumbotron{
+    background-color: forestgreen;
+    color: #ffffff;
+    text-align: center;
+}
