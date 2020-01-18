@@ -1,0 +1,44 @@
+.colored-bg{
+    background-color: green;
+    height: 80vh;
+}
+
+/* xs */
+@media (max-width: 575px){
+    .colored-bg{
+        background-color: red;
+        height: 80vh;
+    }
+}
+
+/* sm */
+@media (min-width: 576px) and (max-width: 767px){
+    .colored-bg{
+        background-color: blue;
+        height: 80vh;
+    }
+}
+
+/* md */
+@media (min-width: 768px) and (max-width: 991px){
+    .colored-bg{
+        background-color: gray;
+        height: 80vh;
+    }
+}
+
+/* ls */
+@media (min-width: 992px) and (max-width: 1199px){
+    .colored-bg{
+        background-color: orange;
+        height: 80vh;
+    }
+}
+
+/* xl */
+@media (min-width: 1200px){
+    .colored-bg{
+        background-color: pink;
+        height: 80vh;
+    }
+}

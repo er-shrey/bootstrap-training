@@ -12,3 +12,8 @@ body{
     line-height: 1.2em;
     font-family: 'Revalia', cursive;
 }
+
+.thumbnail{
+    height: 100px;
+    width: 200px;
+}
