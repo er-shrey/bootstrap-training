@@ -1,0 +1,14 @@
+body{
+    background: url(../images/manhattan.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.img-logo{
+    max-width: 100px;       
+    max-height: 100px;
+    margin: 0 auto;
+}
+
+#login-modal input[type=text], input[type=password]{
+    margin-top: 10px;
+}
